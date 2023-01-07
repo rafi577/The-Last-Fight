@@ -12,7 +12,7 @@ public class GroundEnemy : MonoBehaviour
     [SerializeField] float minX;
     [SerializeField] float maxX;
 
-
+    bool facingRight=true;
     void Start()
     {
         waitTime = startWaitTime;
@@ -27,6 +27,16 @@ public class GroundEnemy : MonoBehaviour
 
         transform.position = Vector2.MoveTowards(transform.position, movePosition.position, moveSpeed * Time.deltaTime);
         
-        
+        if(transform.position.x > movePosition.position.x && facingRight){
+            Flip();
+        }
+        else if(transform.position.x<movePosition.position.x && !facingRight){
+            Flip();
+        }
+    }
+
+    void Flip(){
+        facingRight = !facingRight;
+         transform.Rotate(0f,180f,0f);
     }
 }

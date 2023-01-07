@@ -10,7 +10,10 @@ public class EnemyBullet : MonoBehaviour
     Rigidbody2D rb;
 
     void Start(){
+        
         rb = GetComponent<Rigidbody2D>();
+    }
+    public void bulletDir(Vector2 dir){
         rb.velocity = transform.right * speed;
     }
 

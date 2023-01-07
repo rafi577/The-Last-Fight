@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class EnemyHealth : MonoBehaviour
 {
+    [SerializeField]GameObject power;
     public float enemyHealth = 100f;
     [SerializeField] Slider healthSlider;
     float curHealth;
@@ -25,6 +26,7 @@ public class EnemyHealth : MonoBehaviour
     }
 
     void Die(){
+        Instantiate(power,transform.position,transform.rotation);
         Destroy(gameObject);
         //die effect;
     }

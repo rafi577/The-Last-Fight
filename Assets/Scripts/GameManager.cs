@@ -10,7 +10,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] TextMeshProUGUI pauseAndPlay;
     [SerializeField] GameObject pausePanel;
     public void Play(){
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(4);
     }
     public void Quit(){
         Application.Quit();
@@ -28,5 +28,8 @@ public class GameManager : MonoBehaviour
             pauseAndPlay.text = "Pause";
             pausePanel.SetActive(false);
         }
+    }
+    public void GameOver(){
+        SceneManager.LoadScene(5);
     }
 }
