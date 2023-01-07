@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: 1f2f1011adad92840b2bee2b8f276bb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3151074744182641391
+    second: Naturre_0
+  - first:
+      213: 9016016202313822902
+    second: Naturre_1
+  - first:
+      213: 453094012905971643
+    second: Naturre_2
+  - first:
+      213: -8971207946797617497
+    second: Naturre_3
+  - first:
+      213: -5093994247036156873
+    second: Naturre_4
+  - first:
+      213: 7566220072873128706
+    second: Naturre_5
+  - first:
+      213: -443419954573692167
+    second: Naturre_6
+  - first:
+      213: -2508115909863403788
+    second: Naturre_7
+  - first:
+      213: -4899973884811836459
+    second: Naturre_8
+  - first:
+      213: 6413453982432748878
+    second: Naturre_9
+  - first:
+      213: -9099772925479733734
+    second: Naturre_10
+  - first:
+      213: 2589969707696240330
+    second: Naturre_11
+  - first:
+      213: 2447902538831750146
+    second: Naturre_12
+  - first:
+      213: -6790828603694499785
+    second: Naturre_13
+  - first:
+      213: -2004334299566850445
+    second: Naturre_14
+  - first:
+      213: -8011171250097174690
+    second: Naturre_15
+  - first:
+      213: -775294631155336981
+    second: Naturre_16
+  - first:
+      213: -1063193302976224820
+    second: Naturre_17
+  - first:
+      213: -1067493748278164008
+    second: Naturre_18
+  - first:
+      213: -112270455106340913
+    second: Naturre_19
+  - first:
+      213: 6922760846818802153
+    second: Naturre_20
+  - first:
+      213: -1552121883551459097
+    second: Naturre_21
+  - first:
+      213: 9019648927602131471
+    second: Naturre_22
+  - first:
+      213: 5436971902667753019
+    second: Naturre_23
+  - first:
+      213: -5530271163571032880
+    second: Naturre_24
+  - first:
+      213: -3961596138802006194
+    second: Naturre_25
+  - first:
+      213: 657697661106053272
+    second: Naturre_26
+  - first:
+      213: 1241997809532245383
+    second: Naturre_27
+  - first:
+      213: -3642760148834488147
+    second: Naturre_28
+  - first:
+      213: -1941581572461654460
+    second: Naturre_29
+  - first:
+      213: -1161971563756176941
+    second: Naturre_30
+  - first:
+      213: -7699909644621853759
+    second: Naturre_31
+  - first:
+      213: -8231696173696221357
+    second: Naturre_32
+  - first:
+      213: -7880549263240121037
+    second: Naturre_33
+  - first:
+      213: 6544796645746564920
+    second: Naturre_34
+  - first:
+      213: -4904799977891501189
+    second: Naturre_35
+  - first:
+      213: -1110837641504370620
+    second: Naturre_36
+  - first:
+      213: -2793749382208848632
+    second: Naturre_37
+  - first:
+      213: 4537059434307937374
+    second: Naturre_38
+  - first:
+      213: 7609560547564297195
+    second: Naturre_39
+  - first:
+      213: -2151821137855812317
+    second: Naturre_40
+  - first:
+      213: 6350198867164245266
+    second: Naturre_41
+  - first:
+      213: -1219473155485828458
+    second: Naturre_42
+  - first:
+      213: -4763605430034164053
+    second: Naturre_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Naturre_0
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 6349
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe216b3e8cddabb20800000000000000
+      internalID: 3151074744182641391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_1
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 6386
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2f41497f25f1d70800000000000000
+      internalID: 9016016202313822902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_2
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 6321
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfdd19aa96b94600800000000000000
+      internalID: 453094012905971643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_3
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 6360
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae67f467eddf7380800000000000000
+      internalID: -8971207946797617497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_4
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 6342
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c681b83f7e49b0800000000000000
+      internalID: -5093994247036156873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_5
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 6327
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2037808911d900960800000000000000
+      internalID: 7566220072873128706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_6
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 6291
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2b05196e7a8d9f0800000000000000
+      internalID: -443419954573692167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_7
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 5757
+        width: 657
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe06195ed1613dd0800000000000000
+      internalID: -2508115909863403788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_8
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 6282
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3891386bbcffbb0800000000000000
+      internalID: -4899973884811836459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_9
+      rect:
+        serializedVersion: 2
+        x: 3825
+        y: 6260
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45e736ca6a210950800000000000000
+      internalID: 6413453982432748878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_10
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 5883
+        width: 881
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a163018acbc17b180800000000000000
+      internalID: -9099772925479733734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_11
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 6179
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6b1461abb61f320800000000000000
+      internalID: 2589969707696240330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_12
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 6194
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204e7d7b362b8f120800000000000000
+      internalID: 2447902538831750146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_13
+      rect:
+        serializedVersion: 2
+        x: 5654
+        y: 5668
+        width: 615
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7383a324d5122c1a0800000000000000
+      internalID: -6790828603694499785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_14
+      rect:
+        serializedVersion: 2
+        x: 6476
+        y: 5712
+        width: 578
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ebf2fe29c2f24e0800000000000000
+      internalID: -2004334299566850445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_15
+      rect:
+        serializedVersion: 2
+        x: 8728
+        y: 5712
+        width: 688
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57c22b613a92d090800000000000000
+      internalID: -8011171250097174690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_16
+      rect:
+        serializedVersion: 2
+        x: 10142
+        y: 5490
+        width: 556
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8f7b104a99d35f0800000000000000
+      internalID: -775294631155336981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_17
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6112
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc12780f257ce31f0800000000000000
+      internalID: -1063193302976224820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_18
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 6149
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d50eed77108f21f0800000000000000
+      internalID: -1067493748278164008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_19
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 6046
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc77d9cad92217ef0800000000000000
+      internalID: -112270455106340913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_20
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 6031
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9fd93df46921060800000000000000
+      internalID: 6922760846818802153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_21
+      rect:
+        serializedVersion: 2
+        x: 3825
+        y: 6001
+        width: 126
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e81ec2de51c57ae0800000000000000
+      internalID: -1552121883551459097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_22
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 6075
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02457859ea3c2d70800000000000000
+      internalID: 9019648927602131471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_23
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 5738
+        width: 953
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b368a40a321047b40800000000000000
+      internalID: 5436971902667753019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_24
+      rect:
+        serializedVersion: 2
+        x: 7602
+        y: 5608
+        width: 689
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc23c76da78043b0800000000000000
+      internalID: -5530271163571032880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_25
+      rect:
+        serializedVersion: 2
+        x: 11194
+        y: 5840
+        width: 859
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47b52b1d459509c0800000000000000
+      internalID: -3961596138802006194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_26
+      rect:
+        serializedVersion: 2
+        x: 12364
+        y: 5735
+        width: 1110
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e4d3c98c902900800000000000000
+      internalID: 657697661106053272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_27
+      rect:
+        serializedVersion: 2
+        x: 14060
+        y: 5794
+        width: 340
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7859bf86d667c3110800000000000000
+      internalID: 1241997809532245383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_28
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 6009
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da075ced1f0527dc0800000000000000
+      internalID: -3642760148834488147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_29
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 5990
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e8af6c8dd1e05e0800000000000000
+      internalID: -1941581572461654460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_30
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 5846
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d93537e409dfdfe0800000000000000
+      internalID: -1161971563756176941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_31
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 5839
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbc5bd59fc642590800000000000000
+      internalID: -7699909644621853759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_32
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 5797
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ff4e381f323cd80800000000000000
+      internalID: -8231696173696221357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_33
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 5749
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3353b91b23aa2a290800000000000000
+      internalID: -7880549263240121037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_34
+      rect:
+        serializedVersion: 2
+        x: 12353
+        y: 5782
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f54ec9fd9c3da50800000000000000
+      internalID: 6544796645746564920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_35
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 3854
+        width: 569
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bee672866aeebb0800000000000000
+      internalID: -4904799977891501189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_36
+      rect:
+        serializedVersion: 2
+        x: 4306
+        y: 3765
+        width: 563
+        height: 1073
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440dffeec038590f0800000000000000
+      internalID: -1110837641504370620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_37
+      rect:
+        serializedVersion: 2
+        x: 6188
+        y: 4468
+        width: 1710
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d79f12dbb9a39d0800000000000000
+      internalID: -2793749382208848632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_38
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 3261
+        width: 1550
+        height: 2162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5462c2648fd6fe30800000000000000
+      internalID: 4537059434307937374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_39
+      rect:
+        serializedVersion: 2
+        x: 10587
+        y: 4572
+        width: 881
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb956630079a9960800000000000000
+      internalID: 7609560547564297195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_40
+      rect:
+        serializedVersion: 2
+        x: 12349
+        y: 3535
+        width: 296
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d6de173123322e0800000000000000
+      internalID: -2151821137855812317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_41
+      rect:
+        serializedVersion: 2
+        x: 13342
+        y: 2758
+        width: 296
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21da9629930702850800000000000000
+      internalID: 6350198867164245266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_42
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 1929
+        width: 1511
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a742a40af831fe0800000000000000
+      internalID: -1219473155485828458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Naturre_43
+      rect:
+        serializedVersion: 2
+        x: 9294
+        y: 1936
+        width: 1544
+        height: 1303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba611bc991644edb0800000000000000
+      internalID: -4763605430034164053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
