@@ -5,15 +5,17 @@ using UnityEngine;
 public class DialougeTrigger : MonoBehaviour
 {
     public Dialouge dialouges;
+    public bool isDialougeOpen = false;
+
 
     public void TriggerDialouge(){
         FindObjectOfType<DialougeManager>().StartDialouge(dialouges);
     }
 
 
-    void OnCollisionEnter2D(Collision2D collision){
-        if(collision.gameObject.tag=="Player"){
-            Debug.Log("it' player");
+    void OnTriggerEnter2D(Collider2D other){
+        if(other.gameObject.tag=="Player"){
+            isDialougeOpen = true;
             FindObjectOfType<DialougeManager>().StartDialouge(dialouges);
         }
     }

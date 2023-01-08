@@ -25,7 +25,7 @@ public class Power : MonoBehaviour
     void OnTriggerEnter2D(Collider2D hitInfo){
         PlayerMovement player = hitInfo.GetComponent<PlayerMovement>();
         if(player){
-            FindObjectOfType<LevelProgressBar>().LevelProgressing(50f);
+            FindObjectOfType<LevelProgressBar>().LevelProgressing(10f);
             DestroyPower();
         }
     }

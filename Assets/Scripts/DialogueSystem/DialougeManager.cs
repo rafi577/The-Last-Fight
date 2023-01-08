@@ -47,6 +47,7 @@ public class DialougeManager : MonoBehaviour
 
     void EndDialouge(){
         dialoguePanel.SetActive(false);
+        FindObjectOfType<DialougeTrigger>().isDialougeOpen = false;
     }
 
 }

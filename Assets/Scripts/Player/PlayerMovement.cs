@@ -38,6 +38,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField]float maxAirSpeed = 10f;
 
 
+    bool isPlayerBusyWithConversition=false;
 
     bool facingRight = false;
 
@@ -47,16 +48,24 @@ public class PlayerMovement : MonoBehaviour
 
     
     void FixedUpdate(){
-        moveInput = Input.GetAxis("Horizontal");
-        rb.velocity = new Vector2(moveInput * moveSpeed,rb.velocity.y);
-        FlipDir();
+        if(!isPlayerBusyWithConversition){
+            moveInput = Input.GetAxis("Horizontal");
+            rb.velocity = new Vector2(moveInput * moveSpeed,rb.velocity.y);
+            FlipDir();
+        }
+        
     }
 
     void Update(){
-        Jump();
+        isPlayerBusyWithConversition = FindObjectOfType<DialougeTrigger>().isDialougeOpen;
 
-        
-        AirMovement();
+        if(!isPlayerBusyWithConversition){
+            Jump();
+            AirMovement();
+        }
+        else {
+            rb.velocity = Vector2.zero;
+        }
 
         PlayerAnimation();
     }
@@ -79,7 +88,10 @@ public class PlayerMovement : MonoBehaviour
         }
     }
     void PlayerAnimation(){
-        if(moveInput!=0){
+        if(isPlayerBusyWithConversition){
+            anim.SetBool("isPlayerRunning",false);
+        }
+        else if(moveInput!=0){
             anim.SetBool("isPlayerRunning",true);
         }
         else{
@@ -154,11 +166,15 @@ public class PlayerMovement : MonoBehaviour
         if(other.gameObject.tag == "Teleportor"){
             transform.position = FindObjectOfType<Teleportor>().teleportor.position;
         }
+        
     }
     void OnTriggerEnter2D(Collider2D hitInfo){
         Teleportor tp = hitInfo.GetComponent<Teleportor>();
         if(tp){
             transform.position = tp.teleportor.position;
+        }
+        if(hitInfo.gameObject.tag=="shouldEnemySpawn"){
+            FindObjectOfType<EnemySpanwer>().isSpawnEnemy= true;
         }
     }
 }

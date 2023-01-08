@@ -5,4 +5,5 @@ using UnityEngine;
 public class Teleportor : MonoBehaviour
 {
     public Transform teleportor;
+    
 }
