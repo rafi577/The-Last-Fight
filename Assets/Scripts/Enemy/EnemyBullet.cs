@@ -28,7 +28,10 @@ public class EnemyBullet : MonoBehaviour
     void OnTriggerEnter2D(Collider2D hitInfo){
         PlayerHealth player = hitInfo.GetComponent<PlayerHealth>();
         if(player){
-            player.TakeDamage(20f);
+            player.TakeDamage(8f);
+            destroyBullet();
+        }
+        if(hitInfo.gameObject.tag=="Ground"){
             destroyBullet();
         }
     }

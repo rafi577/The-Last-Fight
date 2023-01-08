@@ -10,8 +10,9 @@ public class GameManager : MonoBehaviour
     [SerializeField] TextMeshProUGUI pauseAndPlay;
     [SerializeField] GameObject pausePanel;
     public void Play(){
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(1);
     }
+
     public void Quit(){
         Application.Quit();
     }
@@ -30,6 +31,15 @@ public class GameManager : MonoBehaviour
         }
     }
     public void GameOver(){
-        SceneManager.LoadScene(5);
+         SceneManager.LoadScene(2);
+    }
+
+
+    public void NextLevel(){
+        SceneManager.LoadScene(2);
+    }
+
+    public void PlayAgain(string path){
+        SceneManager.LoadScene(path);
     }
 }

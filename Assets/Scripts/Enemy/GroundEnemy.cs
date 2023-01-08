@@ -11,6 +11,7 @@ public class GroundEnemy : MonoBehaviour
     [SerializeField] Transform movePosition;
     [SerializeField] float minX;
     [SerializeField] float maxX;
+    [SerializeField]float giveDamage = 5f;
 
     bool facingRight=true;
     void Start()
@@ -38,5 +39,12 @@ public class GroundEnemy : MonoBehaviour
     void Flip(){
         facingRight = !facingRight;
          transform.Rotate(0f,180f,0f);
+    }
+
+    void OnTriggerEnter2D(Collider2D hitInfo){
+        PlayerHealth player = hitInfo.GetComponent<PlayerHealth>();
+        if(player){
+            player.TakeDamage(giveDamage);
+        }
     }
 }

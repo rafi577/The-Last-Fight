@@ -8,6 +8,7 @@ public class LevelProgressBar : MonoBehaviour
 {
     [SerializeField]float needPowerToCompleteLevel;
     [SerializeField]Slider progressBar;
+    [SerializeField]GameObject LevelLoader;
 
     float curProgress=0;
 
@@ -26,6 +27,7 @@ public class LevelProgressBar : MonoBehaviour
         progressBar.value = curProgress;
 
         if(curProgress >= 100){
+            LevelLoader.SetActive(true);
             SceneManager.LoadScene(3);
         }
     }
