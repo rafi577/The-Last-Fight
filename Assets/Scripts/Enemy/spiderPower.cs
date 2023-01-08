@@ -11,7 +11,9 @@ public class spiderPower : MonoBehaviour
     [SerializeField]float attactRange = 15f;
     [SerializeField]float attackInterval=2f;
     float attackTime=0;
-
+    void Start(){
+        player = FindObjectOfType<PlayerMovement>().transform;
+    }
     void Update(){
         attackTime+=Time.deltaTime;
         float distance = Vector2.Distance(transform.position,player.position);
